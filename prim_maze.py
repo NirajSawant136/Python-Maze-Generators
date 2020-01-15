@@ -1,3 +1,9 @@
+'''
+This is a Maze Generator made in python using pygame module.
+I have used Randomized Prim's Algorithm in this code.
+A really fun project!
+'''
+
 import pygame
 import time
 import random
