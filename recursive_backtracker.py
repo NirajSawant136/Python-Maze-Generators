@@ -1,5 +1,10 @@
+'''
+This is a maze generator made in python using pygame module
+I used the Recursive Backtrack algorithm to make this
+A cool project!
+'''
+
 import random
-from tkinter import *
 import pygame
 import time
 
